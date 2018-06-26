@@ -1,0 +1,7 @@
+.ui.pointing.menu {
+  background-color: darkcyan;
+}
+
+.ui.menu:not(.vertical) .item {
+  color:white;
+}
